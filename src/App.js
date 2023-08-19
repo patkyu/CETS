@@ -150,7 +150,7 @@ const Group1Button = styled(Button)({
 });
 
 function Desktop1() {
-  const googleDriveLink = "https://drive.google.com/drive/folders/1kqXvwkxY4p_npp2-M7kh5yRYDdeyrg2I?usp=drive_link";
+  const googleDriveLink = "https://drive.google.com/drive/folders/1FPU8YiswYsOg7_luoifuutMWYoOCNoXb?usp=sharing";
   return (
     <Desktop11>
       <UntitledDesign11 src={UntitledDesign11Image} loading='lazy' alt={"Untitled design (1) 1"}/>
